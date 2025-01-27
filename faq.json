@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the return policy?",
+        "answer": "You can return products within 30 days of purchase with a valid receipt."
+    },
+    {
+        "question": "How do I reset my account password?",
+        "answer": "Visit the login page and click 'Forgot Password.' Follow the instructions sent to your email."
+    },
+    {
+        "question": "What are the shipping options?",
+        "answer": "We offer standard, expedited, and overnight shipping options. Charges vary by location."
+    },
+    {
+        "question": "How do I contact customer support?",
+        "answer": "You can reach us at support@example.com or call our helpline at +1-800-123-4567."
+    },
+    {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept Visa, MasterCard, PayPal, and Apple Pay."
+    }
+]
